@@ -22,7 +22,7 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 🎓 B.Tech CSE Student  
 💻 Aspiring Software Development Engineer  
 🌐 Full Stack Developer (MERN Stack)  
-🎨 UI/UX Designer passionate about clean and intuitive interfaces  
+🎨 UI/UX Designer passionate about intuitive & modern interfaces  
 📊 SAP Certified Data Analyst – SAP Analytics Cloud  
 
 - 🔭 Built production-ready E-commerce platform with Admin Panel  
@@ -57,7 +57,7 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
 </p>
 
 ---
@@ -127,4 +127,4 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 
 ---
 
-⭐ Focused on building scalable systems with clean architecture and user-friendly design.
+⭐ Focused on building scalable systems with clean architecture and creative, user-friendly design.
