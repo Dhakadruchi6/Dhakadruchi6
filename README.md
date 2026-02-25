@@ -15,15 +15,11 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
-</p>
-
 🎓 B.Tech CSE Student  
 💻 Aspiring Software Development Engineer  
 🌐 Full Stack Developer (MERN Stack)  
-🎨 UI/UX Designer passionate about intuitive & modern interfaces  
-📊 SAP Certified Data Analyst – SAP Analytics Cloud  
+🎨 UI/UX Designer passionate about intuitive and modern interfaces  
+📊 SAP Certified – Data Analyst – SAP Analytics Cloud  
 
 - 🔭 Built production-ready E-commerce platform with Admin Panel  
 - 💳 Integrated Razorpay Payment Gateway  
@@ -57,7 +53,7 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -127,4 +123,4 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 
 ---
 
-⭐ Focused on building scalable systems with clean architecture and creative, user-friendly design.
+⭐ Focused on building scalable systems with clean architecture and user-centered design.
