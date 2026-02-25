@@ -3,10 +3,12 @@
   Hi, I'm Ruchi Dhakad
 </h1>
 
-<h3 align="center">Full Stack Developer (MERN) | Software Development Engineer Aspirant</h3>
+<h3 align="center">
+Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Designer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Backend+Focused+SDE;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Software+Development+Engineer+Focused;Full+Stack+MERN+Developer;Backend+%2B+System+Design+Learner;UI%2FUX+Designer;SAP+Analytics+Cloud+Certified;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -18,15 +20,17 @@
 </p>
 
 🎓 B.Tech CSE Student  
-💻 Full Stack Developer specializing in MERN Stack  
-🧠 Strong foundation in Data Structures & Algorithms  
-🌍 Passionate about building scalable backend systems  
+💻 Aspiring Software Development Engineer  
+🌐 Full Stack Developer (MERN Stack)  
+🎨 UI/UX Designer passionate about clean and intuitive interfaces  
+📊 SAP Certified Data Analyst – SAP Analytics Cloud  
 
 - 🔭 Built production-ready E-commerce platform with Admin Panel  
 - 💳 Integrated Razorpay Payment Gateway  
 - 🔐 Implemented role-based authentication & authorization  
-- 📦 Developed RESTful APIs  
-- 🧩 Solved 100+ problems on LeetCode  
+- 📦 Developed scalable RESTful APIs  
+- 🧩 Solved 100+ DSA problems  
+- 🎨 Designed UI prototypes using Figma  
 
 ---
 
@@ -47,14 +51,13 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/>
 </p>
 
-## 🎨 Frontend
+## 🎨 UI/UX & Frontend Design
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45"/>
 </p>
 
-## 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="45"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -73,10 +76,16 @@
 
 ## 🏢 Absence Pro – Employee Leave Management System
 - Leave workflow automation  
-- Admin approval system  
-- Intranet-based access  
+- Admin approval & tracking system  
+- Intranet-based organizational access  
 
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, MySQL, PHP  
+
+---
+
+## ✈️ Voyago – Travel Website (UI/UX)
+- Designed complete UI/UX prototype in Figma  
+- Real-time collaborative design workflow  
 
 ---
 
@@ -93,11 +102,15 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 🏅 Global Rank 312 – Women Code to Win 2025  
-💡 100+ DSA Problems Solved  
-🎓 Certified in DSA, Cloud Computing & Prompt Engineering  
+💡 Solved 100+ DSA Problems  
+
+📊 SAP Certified – Data Analyst – SAP Analytics Cloud  
+🎓 Data Structures & Algorithms Certification  
+☁️ Cloud Computing (NPTEL)  
+🤖 Prompt Engineering (Coursera)  
 
 ---
 
@@ -114,4 +127,4 @@
 
 ---
 
-⭐ Focused on building scalable, production-grade applications.
+⭐ Focused on building scalable systems with clean architecture and user-friendly design.
