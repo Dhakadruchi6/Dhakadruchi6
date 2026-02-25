@@ -120,7 +120,7 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
   <a href="http://www.linkedin.com/in/ruchidhakad06">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:dhakadruchi02@gmail.com">
+  <a href="mailto:dhakadruchi6@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
