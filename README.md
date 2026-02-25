@@ -57,7 +57,7 @@ Software Development Engineer Aspirant | Full Stack Developer (MERN) | UI/UX Des
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="380"/>
 </p>
 
 ---
